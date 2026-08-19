@@ -1,5 +1,5 @@
 # (Un)designing a Grocery Prediction Algorithm (PhD Project)
-This repository contains the working code and data for an experimental grocery prediction algorithm to predict shopping lists for 'week nine'. The purpose of this project was to research the social and environmental implications of implementing automated data-driven grocery recommendations for grocery shopping practices. This project is part of the PhD thesis titled: "(Un)designing Learning Agents in Messy Domestic Contexts". 
+This repository contains the working code and data for an experimental grocery prediction algorithm to predict shopping lists for 'week nine'. The purpose of this project was to research the social and environmental implications of implementing automated data-driven grocery recommendations for grocery shopping practices. This project is part of a Research through Design study presented in Chapter 5 of the PhD thesis titled: "(Un)designing Learning Agents in Messy Domestic Contexts". 
 
 # Data Collection
 Over a period of eight weeks, split up into two four-week periods, participants (five households living in Belgium and the Netherlands) were asked to photograph all their grocery receipts and submit them via Telegram. 
